@@ -4,14 +4,14 @@ Build Realtime Apps With Redis PubSub
 # Installing
 To Install & Run Backend
 
-```php
+```bash
 $ cd backend
 $ composer install
 ```
 
 To Install & Run NodeJs Server
 
-```
+```bash
 $ cd nodejs
 $ npm install
 $ node index.js
