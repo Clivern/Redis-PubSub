@@ -7,9 +7,10 @@ To Install & Run Backend
 ```php
 $ cd backend
 $ composer install
-``
+```
 
 To Install & Run NodeJs Server
+
 ```
 $ cd nodejs
 $ npm install
